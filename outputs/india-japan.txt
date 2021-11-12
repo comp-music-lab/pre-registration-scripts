@@ -1,0 +1,18 @@
+Here we have 30 independent songs, we use a significance level of 0.05, and a power of 0.8 for a single-sided comparision.
+     approximate correlation power calculation (arctangh transformation) 
+
+              n = 30
+              r = 0.4386874
+      sig.level = 0.05
+          power = 0.8
+    alternative = greater
+
+Here we have 60 mean comparisons, we use a significance level of 0.05, and a power of 0.8 for a single-sided comparision.
+     approximate correlation power calculation (arctangh transformation) 
+
+              n = 60
+              r = 0.3154587
+      sig.level = 0.05
+          power = 0.8
+    alternative = greater
+
